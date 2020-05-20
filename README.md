@@ -16,6 +16,7 @@ Project is created with:
 	
 ## Setup
 To run this project, you may download it into your code editor and use local host or you may click the link below which is hosted on netlify.
+[Click me to see this magic!!](https://brave-mcclintock-e54bfa.netlify.app/)
 * [Click me to see this magic!!] (#https://brave-mcclintock-e54bfa.netlify.app/)
 
 ```

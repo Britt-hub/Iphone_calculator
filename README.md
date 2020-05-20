@@ -1,6 +1,6 @@
 # Iphone Calculator
 The Iphone 8 calculator. 
-This is a replica of the Iphone 8 Calculator using html,css and javascript
+This is a replica of the Iphone 8 Calculator using html,css and javascript. You are able to add, subtract, mulitply, and divide.
 
 ## Table of contents
 * [General info](#general-info)

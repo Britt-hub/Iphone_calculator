@@ -1,5 +1,6 @@
 # Iphone Calculator
-The Iphone 8 calculator 
+The Iphone 8 calculator. 
+This is a replica of the Iphone 8 Calculator using html,css and javascript
 
 ## Table of contents
 * [General info](#general-info)

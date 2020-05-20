@@ -1,5 +1,10 @@
 # Iphone Calculator
 
+![alt text](http://url/to/img.png)
+![Farmers Market Finder Demo](IPhoneCalculator.gif)
+
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -17,6 +22,8 @@ Project is created with:
 ## Setup
 To run this project, you may download it into your code editor and use local host or you may click the link below which is hosted on netlify.
 [Click me to see this magic!!](https://brave-mcclintock-e54bfa.netlify.app/)
+
+// delete the below
 * [Click me to see this magic!!] (#https://brave-mcclintock-e54bfa.netlify.app/)
 
 ```

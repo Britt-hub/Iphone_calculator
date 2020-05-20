@@ -15,7 +15,7 @@ Project is created with:
 * CSS
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, you may download it into your code editor and use local host or you may click the link below which is hosted on Heroku.
 
 ```
 $ cd ../lorem

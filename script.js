@@ -1,4 +1,4 @@
-// identity adn mimic the users input
+// identity and mimic the users input
 // user's intent: input #, choose a #, and input another #. Then result
 
 let prevEntry = 0;
@@ -6,7 +6,7 @@ let operator = null;
 let currentEntry = 0;
 let result = 0;
 
-// select everything that is on the screen (input)
+// this will allow user to select everything that is on the screen (input)
 
 let display = document.querySelector('#display');
 let button = document.querySelectorAll('.btn');
@@ -19,9 +19,10 @@ button.forEach(btn => {
     btn.addEventListener("click", function () {
         let btnClicked = this.innerText;
         display.value = btnClicked;
-        // console.log("you clicked: ", btnClicked);
+        console.log("you clicked: ", btnClicked);
 
-        // CREATE functionality for each btn
+        // CREATE functionality for each btn to work 
+        // 
         if (btnClicked === "AC") {
             currentEntry = 0;
             result = 0;

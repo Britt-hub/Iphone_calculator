@@ -1,4 +1,4 @@
-# Iphone_calculator
+# Iphone Calculator
 The Iphone 8 calculator 
 
 ## Table of contents

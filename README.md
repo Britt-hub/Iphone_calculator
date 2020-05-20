@@ -1,7 +1,7 @@
 # Iphone Calculator
 
-![alt text](http://url/to/img.png)
-![Farmers Market Finder Demo](IPhoneCalculator.gif)
+![Iphone](screenshoot.png)
+![Demo](IPhoneCalculator.gif)
 
 
 

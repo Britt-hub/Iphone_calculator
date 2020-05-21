@@ -22,7 +22,7 @@ button.forEach(btn => {
         console.log("you clicked: ", btnClicked);
 
         // CREATE functionality for each btn to work 
-        // 
+        // error
         if (btnClicked === "AC") {
             currentEntry = 0;
             result = 0;
